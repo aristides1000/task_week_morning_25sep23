@@ -1,4 +1,4 @@
-# Tarea Lunes 26 de septiembre de 2023
+# Tarea martes 26 de septiembre de 2023
 
 ## Teórica
 
