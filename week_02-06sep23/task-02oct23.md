@@ -7,7 +7,7 @@
 3. Lea el artículo [Lesson overview](https://www.theodinproject.com/lessons/foundations-computer-basics#lesson-overview) y diga en clases que conclusiones puede tener del artículo.
 4. Vea el video [Computer Basics: What Is a Computer?](https://m.youtube.com/watch?v=Cu3R5it4cQs) y diga en clases que conclusiones puede tener del video.
 5. Lea el artículo [What is a computer?](https://edu.gcfglobal.org/en/computerbasics/what-is-a-computer/1/) y diga en clases que conclusiones puede tener del artículo.
-6. Vea el video [Computer Basics: Understanding Operating Systems](https://m.youtube.com/watch?v=Cu3R5it4cQs) y diga en clases que conclusiones puede tener del video.
+6. Vea el video [Computer Basics: Understanding Operating Systems](https://www.youtube.com/watch?v=fkGCLIQx1MI&ab_channel=GCFLearnFree) y diga en clases que conclusiones puede tener del video.
 7. Lea el artículo [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/) y diga en clases que conclusiones puede tener del artículo.
 8. Vea el video [Computer Basics: Understanding Applications](https://m.youtube.com/watch?v=3gMOYZoMtEs) y diga en clases que conclusiones puede tener del video.
 9. Lea el artículo [What is an application?](https://edu.gcfglobal.org/en/computerbasics/understanding-applications/1/) y diga en clases que conclusiones puede tener del artículo.
