@@ -22,7 +22,6 @@
 18. Vea el video [The hidden network that makes the internet possible - Sajan Saini](https://www.youtube.com/watch?v=er3v4PVNQqE&ab_channel=TED-Ed) y diga en clases que conclusiones puede tener del video.
 19. Lea el artículo [Additional resources](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
-
 ## Práctica
 
 1. Termine los retos plasmados en todos los ejercicios de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Learn Basic CSS by Building a Cafe Menu` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/).
