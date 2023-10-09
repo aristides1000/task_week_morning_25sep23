@@ -23,7 +23,6 @@
 19. Vea el video [FreeCodeCamp’s excellent course on computer basics](https://youtu.be/y2kg3MOk1sY) y diga en clases que conclusiones puede tener del video.
 20. Lea el artículo [Additional resources](https://www.theodinproject.com/lessons/foundations-asking-for-help#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
-
 ## Práctica
 
 1. Termine los retos plasmados en todos los ejercicios de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Learn Basic CSS by Building a Cafe Menu` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/).
