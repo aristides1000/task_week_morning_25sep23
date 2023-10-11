@@ -1,4 +1,4 @@
-# Tarea Miercoles 13 de octubre de 2023
+# Tarea Viernes 13 de octubre de 2023
 
 ## Teórica
 
