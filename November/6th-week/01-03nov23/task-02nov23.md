@@ -1,4 +1,4 @@
-# Tarea Jueves HTML5 02 de octubre
+# Tarea Jueves HTML5 02 de noviembre
 
 ## teórica
 
