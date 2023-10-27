@@ -11,7 +11,7 @@
 7. Lea el artículo [CSS Legal Color Values](https://www.w3schools.com/cssref/css_colors_legal.php) y diga en clases que conclusiones puede tener del artículo.
 8. Lea el artículo [CSS Fonts](https://www.w3schools.com/Css/css_font.asp) y diga en clases que conclusiones puede tener del artículo.
 9. Lea el artículo [CSS Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php) y diga en clases que conclusiones puede tener del artículo.
-10. Realiza las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-intro-to-css#assignment) y diga en clases que conclusiones puede tener del artículo.
+10. Realiza las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-the-cascade#assignment) y diga en clases que conclusiones puede tener del artículo.
 11. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-the-cascade#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
 12. Lea el artículo [The CSS Cascade Or, How browsers resolve competing CSS styles](https://2019.wattenberger.com/blog/css-cascade) y diga en clases que conclusiones puede tener del artículo.
 13. Lea el artículo [Finding and Loading a Font File from a Hosted Service](https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-fonts-with-css#finding-and-loading-a-font-file-from-a-hosted-service) y diga en clases que conclusiones puede tener del artículo.
