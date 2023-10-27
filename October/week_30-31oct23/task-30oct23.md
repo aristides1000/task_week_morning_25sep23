@@ -17,4 +17,4 @@
 
 ## Práctica
 
-1. Termine los retos plasmados en todos los ejercicios de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Survey Form` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/).
+1. Termine los retos plasmados en todos los ejercicios de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Learn the CSS Box Model by Building a Rothko Painting` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/).
